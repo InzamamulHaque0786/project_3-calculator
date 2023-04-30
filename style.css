@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Rubik+Microbe&display=swap');
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+   
+}
+.button{
+    width: 66px;
+    padding: 24px;
+    margin: 0 4px;
+    border: 2px solid black;
+    border-radius: 49px;
+  cursor: pointer;
+}
+.row{
+    margin: 8px 0;
+}
+.row input {
+    color: white;
+    background-color: black;
+    width: 293px;
+    font-size: 20px;
+    margin: 0px;
+    padding: 11px 0px;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+.yellow{
+    background: #f69906;
+    color: white;
+} 
+.dagr{
+    background: #313131;
+    color: white;
+} 
+.lagr{
+    background:#a0a0a0;
+} 
